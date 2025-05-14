@@ -1,2 +1,2 @@
-# wp_app
-Heat Pump Streamlit App
+# WP_App
+App Wärmepumpen
